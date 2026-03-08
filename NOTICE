@@ -1,0 +1,11 @@
+NOTICE
+Weaver Playground - VS Code Extension
+
+This extension integrates with the DataWeave CLI (“dw”)
+from https://github.com/mulesoft/data-weave-cli.
+
+DataWeave CLI is licensed under the BSD-3-Clause License.
+See THIRD_PARTY_NOTICES for the full license text.
+
+This project is not affiliated with, endorsed by, or sponsored by MuleSoft.
+"DataWeave" and "MuleSoft" may be trademarks of their respective owners.
